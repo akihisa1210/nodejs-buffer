@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-buffer",
+  "version": "1.0.0",
+  "description": "Check the behavior of Buffer on Node.js.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akihisa1210/nodejs-buffer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akihisa1210/nodejs-buffer/issues"
+  },
+  "homepage": "https://github.com/akihisa1210/nodejs-buffer#readme"
+}
